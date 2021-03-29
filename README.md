@@ -1,2 +1,2 @@
-# codicePO
-Codice personale dei laboratori, esercizi e appunti del corso di Programmazione ad Oggetti del Politecnico di Torino
+# OOPcodes
+Personal code of the laboratories, exercises and notes of the Object-oriented Programming course of the Politecnico di Torino
